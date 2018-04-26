@@ -1,0 +1,2 @@
+# ReadEventFromFile
+read file.txt
