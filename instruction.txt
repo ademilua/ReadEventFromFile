@@ -1,0 +1,4 @@
+How to run the task
+
+# copy and paste the input.txt file into d folder
+# then  run the programe to print out the fake events.
